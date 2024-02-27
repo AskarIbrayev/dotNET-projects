@@ -1,0 +1,15 @@
+/Users/askaribraev/akvelon/dotnet/ibrayev_net_internship/Homeworks/DownloadImgAsync/DownloadImgAsync/obj/Debug/net7.0/DownloadImgAsync.csproj.AssemblyReference.cache
+/Users/askaribraev/akvelon/dotnet/ibrayev_net_internship/Homeworks/DownloadImgAsync/DownloadImgAsync/obj/Debug/net7.0/DownloadImgAsync.GeneratedMSBuildEditorConfig.editorconfig
+/Users/askaribraev/akvelon/dotnet/ibrayev_net_internship/Homeworks/DownloadImgAsync/DownloadImgAsync/obj/Debug/net7.0/DownloadImgAsync.AssemblyInfoInputs.cache
+/Users/askaribraev/akvelon/dotnet/ibrayev_net_internship/Homeworks/DownloadImgAsync/DownloadImgAsync/obj/Debug/net7.0/DownloadImgAsync.AssemblyInfo.cs
+/Users/askaribraev/akvelon/dotnet/ibrayev_net_internship/Homeworks/DownloadImgAsync/DownloadImgAsync/obj/Debug/net7.0/DownloadImgAsync.csproj.CoreCompileInputs.cache
+/Users/askaribraev/akvelon/dotnet/ibrayev_net_internship/Homeworks/DownloadImgAsync/DownloadImgAsync/bin/Debug/net7.0/DownloadImgAsync
+/Users/askaribraev/akvelon/dotnet/ibrayev_net_internship/Homeworks/DownloadImgAsync/DownloadImgAsync/bin/Debug/net7.0/DownloadImgAsync.deps.json
+/Users/askaribraev/akvelon/dotnet/ibrayev_net_internship/Homeworks/DownloadImgAsync/DownloadImgAsync/bin/Debug/net7.0/DownloadImgAsync.runtimeconfig.json
+/Users/askaribraev/akvelon/dotnet/ibrayev_net_internship/Homeworks/DownloadImgAsync/DownloadImgAsync/bin/Debug/net7.0/DownloadImgAsync.dll
+/Users/askaribraev/akvelon/dotnet/ibrayev_net_internship/Homeworks/DownloadImgAsync/DownloadImgAsync/bin/Debug/net7.0/DownloadImgAsync.pdb
+/Users/askaribraev/akvelon/dotnet/ibrayev_net_internship/Homeworks/DownloadImgAsync/DownloadImgAsync/obj/Debug/net7.0/DownloadImgAsync.dll
+/Users/askaribraev/akvelon/dotnet/ibrayev_net_internship/Homeworks/DownloadImgAsync/DownloadImgAsync/obj/Debug/net7.0/refint/DownloadImgAsync.dll
+/Users/askaribraev/akvelon/dotnet/ibrayev_net_internship/Homeworks/DownloadImgAsync/DownloadImgAsync/obj/Debug/net7.0/DownloadImgAsync.pdb
+/Users/askaribraev/akvelon/dotnet/ibrayev_net_internship/Homeworks/DownloadImgAsync/DownloadImgAsync/obj/Debug/net7.0/DownloadImgAsync.genruntimeconfig.cache
+/Users/askaribraev/akvelon/dotnet/ibrayev_net_internship/Homeworks/DownloadImgAsync/DownloadImgAsync/obj/Debug/net7.0/ref/DownloadImgAsync.dll
